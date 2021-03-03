@@ -21,6 +21,12 @@
          "id":11,
          "name":"start",
          "opacity":0,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/dragonchaser\/spacelounge\/raw\/master\/assets\/audio\/spacelounge_transport.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
