@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/raw.githubusercontent.com\/workadventure-suse\/graveyard\/master\/assets\/index.html"
+                 "value":"https:\/\/workadventure-suse.github.io\/graveyard\/assets\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
