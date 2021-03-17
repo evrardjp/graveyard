@@ -1,9 +1,9 @@
-|---------------------+--------------+-----------------+------------------------------------------------------------------------|
-| filename            | license      | author          | url                                                                    |
-|---------------------+--------------+-----------------+------------------------------------------------------------------------|
-| bg.jpg              | CC0          | Rawdanitsu      | https://opengameart.org/content/space-backgrounds-2                    |
-| scifi_tileset.png   | CC-BY 3.0    | Clint Bellanger | https://opengameart.org/content/32x32-sci-fi-tileset                   |
-| teleport_128.png    | CC-BY-4.0    | Unnamed         | https://opengameart.org/content/teleporter-circle                      |
-| BODY_skeleton.png   | CC-BY-SA 3.0 | wulax           | https://opengameart.org/content/lpc-medieval-fantasy-character-sprites |
-| Dungeon_Tileset.png | CC-BY 4.0    | PixElthen       | https://opengameart.org/content/pixel-art-dungeon-tileset              |
-|---------------------+--------------+-----------------+------------------------------------------------------------------------|
+|---------------------+--------------+---------------------+------------------------------------------------------------------------|
+| filename            | license      | author              | url                                                                    |
+|---------------------+--------------+---------------------+------------------------------------------------------------------------|
+| bg.jpg              | CC0          | Rawdanitsu          | https://opengameart.org/content/space-backgrounds-2                    |
+| scifi_tileset.png   | CC-BY 3.0    | Clint Bellanger     | https://opengameart.org/content/32x32-sci-fi-tileset                   |
+| teleport_128.png    | CC-BY-4.0    | Unnamed             | https://opengameart.org/content/teleporter-circle                      |
+| BODY_skeleton.png   | CC-BY-SA 3.0 | wulax               | https://opengameart.org/content/lpc-medieval-fantasy-character-sprites |
+| Dungeon_Tileset.png | CC-BY 4.0    | Elthen (Ahmet Avci) | https://opengameart.org/content/pixel-art-dungeon-tileset              |
+|---------------------+--------------+---------------------+------------------------------------------------------------------------|
