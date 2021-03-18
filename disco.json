@@ -360,6 +360,12 @@
  "nextlayerid":48,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"playAudio",
+         "type":"string",
+         "value":"https:\/\/github.com\/workadventure-suse\/office\/raw\/master\/sounds\/toilet_01.mp3"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
